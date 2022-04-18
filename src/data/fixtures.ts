@@ -1,7 +1,7 @@
 export default {
-  author: "Sam Xie",
+  author: "Selby Baidjnath",
   hero: {
-    subtitle: "Software engineer at Cash App.",
+    subtitle: "Software Engineer at VSH Tech.",
     description: "Building reliable and scalable systems by day. Leveraging technology to launch fully featured products by night.",
     cta: "Browse Products",
   },
@@ -60,18 +60,18 @@ export default {
         }
       },
       {
-        name: "Final Slash VR",
-        description: "Survival experience on an abandoned planet.",
+        name: "Grove's Life",
+        description: "Created in 72 hours for the Unity GameJam.",
         link: {
           name: "Download",
           url: "https://samzx.itch.io/final-slash-vr"
         }
       },
       {
-        name: "MPH Watch",
-        description: "Stats for miners mining on Mining Pool Hub.",
+        name: "Crimson Discord Bot",
+        description: "Adminstrative Discord bot.",
         link: {
-          name: "Demo",
+          name: "Invite",
           url: "https://mphwatch.samxie.net/demo"
         }
       }
@@ -82,48 +82,38 @@ export default {
     // Only supports 0-3 at the moment
     logos: [
       {
-        src: "/logos/unimelb.svg",
-        url: "https://unimelb.edu.au/",
-        alt: "Unimelb"
+        src: "/logos/zendesk.svg",
+        url: "http://itpartner.nl/",
+        alt: "IT Partner BV"
       },
       {
-        src: "/logos/zendesk.svg",
-        url: "https://www.zendesk.com/",
-        alt: "Zendesk"
+        src: "/logos/unimelb.svg",
+        url: "https://www.vsh-tech.com//",
+        alt: "VSH Tech BV"
       },
       {
         src: "/logos/cashapp.svg",
-        url: "https://cash.app/",
-        alt: "Cash App"
+        url: "https://apptastic.sr/",
+        alt: "Apptastic"
       }
   ]
   },
   footer: {
-    tagline: "Sam Xie — Melbourne, Australia",
+    tagline: "Selby Baidjnath — Paramaribo, Suriname",
     links: [
       {
-        name: "Twitter",
-        url: "https://twitter.com/samxstudio",
-        fa: "fab fa-twitter" // Code from: https://fontawesome.com/v5/icons/twitter?s=brands
-      },
-      {
-        name: "Medium",
-        url: "https://medium.com/@samxie",
-        fa: "fab fa-medium"
-      },
-      {
         name: "Github",
-        url: "https://github.com/samzx",
+        url: "https://github.com/ultimaterex",
         fa: "fab fa-github"
       },
       {
         name: "Linkedin",
-        url: "https://www.linkedin.com/in/xiesam/",
+        url: "https://www.linkedin.com/in/selbybaidjnath/",
         fa: "fab fa-linkedin"
       },
       {
         name: "Email",
-        url: "mailto:contact@samxie.net",
+        url: "mailto:contact@serubii.com",
         fa: "fa fa-envelope"
       },
     ]
