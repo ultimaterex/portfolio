@@ -82,19 +82,19 @@ export default {
     // Only supports 0-3 at the moment
     logos: [
       {
+        src: "/logos/apptastic.svg",
+        url: "https://apptastic.sr/",
+        alt: "Apptastic"
+      },
+      {
         src: "/logos/itp.svg",
-        url: "http://itpartner.nl/",
+        url: "https://itpartner.nl/",
         alt: "IT Partner BV"
       },
       {
         src: "/logos/vshtech.svg",
-        url: "https://www.vsh-tech.com//",
+        url: "https://www.vsh-tech.com/",
         alt: "VSH Tech BV"
-      },
-      {
-        src: "/logos/apptastic.svg",
-        url: "https://apptastic.sr/",
-        alt: "Apptastic"
       }
   ]
   },
