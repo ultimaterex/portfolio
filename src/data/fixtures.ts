@@ -7,72 +7,72 @@ export default {
   },
   products: {
     featured: [
-      {
-        name: "DoubleText",
-        medium: "React · GraphQL · Golang",
-        summary: "The #1 Facebook chat analyzer.",
-        copy: [
-          "See millions of messages at a glance, without data leaving your computer."
-        ],
-        links: {
-          color: "#363636",
-          primary: {
-            name: "Discover",
-            url: "https://doubletext.me/"
-          }
-        },
-        images: [
-          "/doubletext/0.jpg",
-          "/doubletext/1.jpg",
-          "/doubletext/2.jpg",
-          "/doubletext/3.jpg",
-          "/doubletext/4.jpg"
-        ]
-      },
-      {
-        name: "ClimbList",
-        medium: "React · Next.js",
-        summary: "Construction is now in progress.",
-        copy: [
-          "Compare and track grades between gyms around the country.",
-        ],
-        links: {
-          color: "#363636",
-          primary: {
-            name: "Learn more",
-            url: "https://climblist.com/"
-          }
-        },
-        images: [
-          "/climblist/0.jpg",
-          "/climblist/1.jpg",
-        ]
-      }
+      // {
+      //   name: "DoubleText",
+      //   medium: "React · GraphQL · Golang",
+      //   summary: "The #1 Facebook chat analyzer.",
+      //   copy: [
+      //     "See millions of messages at a glance, without data leaving your computer."
+      //   ],
+      //   links: {
+      //     color: "#363636",
+      //     primary: {
+      //       name: "Discover",
+      //       url: "https://doubletext.me/"
+      //     }
+      //   },
+      //   images: [
+      //     "/doubletext/0.jpg",
+      //     "/doubletext/1.jpg",
+      //     "/doubletext/2.jpg",
+      //     "/doubletext/3.jpg",
+      //     "/doubletext/4.jpg"
+      //   ]
+      // },
+      // {
+      //   name: "ClimbList",
+      //   medium: "React · Next.js",
+      //   summary: "Construction is now in progress.",
+      //   copy: [
+      //     "Compare and track grades between gyms around the country.",
+      //   ],
+      //   links: {
+      //     color: "#363636",
+      //     primary: {
+      //       name: "Learn more",
+      //       url: "https://climblist.com/"
+      //     }
+      //   },
+      //   images: [
+      //     "/climblist/0.jpg",
+      //     "/climblist/1.jpg",
+      //   ]
+      // }
     ],
     // Only supports 0-3 at the moment
     minor: [
-      {
-        name: "Volunteer Portal",
-        description: "Find and track volunteer opportunities.",
-        link: {
-          name: "Github",
-          url: "https://github.com/zendesk/volunteer_portal"
-        }
-      },
+      // {
+      //   name: "Volunteer Portal",
+      //   description: "Find and track volunteer opportunities.",
+      //   link: {
+      //     name: "Github",
+      //     url: "https://github.com/zendesk/volunteer_portal"
+      //   }
+      // },
       {
         name: "Grove's Life",
-        description: "Created in 72 hours for the Unity GameJam.",
+        description: "Created in 72 hours in a team for the Unity GameJam.",
         link: {
-          name: "Download",
-          url: "https://samzx.itch.io/final-slash-vr"
+          name: "Play",
+          url: "https://ericjdeveloper.itch.io/groves-life"
         }
       },
       {
-        name: "Crimson Discord Bot",
-        description: "Adminstrative Discord bot.",
+        name: "Crimson",
+        description: "Administrative discord bot that serves over 3000 users",
         link: {
           name: "Invite",
-          url: "https://mphwatch.samxie.net/demo"
+          url: "https://discord.com/oauth2/authorize?client_id=496832675001401354&scope=bot&permissions=8"
         }
       }
     ]
@@ -82,17 +82,17 @@ export default {
     // Only supports 0-3 at the moment
     logos: [
       {
-        src: "/logos/zendesk.svg",
+        src: "/logos/itp.svg",
         url: "http://itpartner.nl/",
         alt: "IT Partner BV"
       },
       {
-        src: "/logos/unimelb.svg",
+        src: "/logos/vshtech.svg",
         url: "https://www.vsh-tech.com//",
         alt: "VSH Tech BV"
       },
       {
-        src: "/logos/cashapp.svg",
+        src: "/logos/apptastic.svg",
         url: "https://apptastic.sr/",
         alt: "Apptastic"
       }
