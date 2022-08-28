@@ -1,19 +1,20 @@
 export default {
   author: "Selby Baidjnath",
   hero: {
-    subtitle: "Software Engineer at VSH Tech.",
-    description: "Building reliable and scalable systems by day. Leveraging technology to launch fully featured products by night.",
-    cta: "Browse Products",
+    subtitle: "Fullstack Software Engineer",
+    description: "Building reliable and scalable systems by day. Leveraging technology to launch fully featured products by night. ",
+    cta: "Contact me",
   },
   products: {
     featured: [
-      // {
-      //   name: "DoubleText",
-      //   medium: "React · GraphQL · Golang",
-      //   summary: "The #1 Facebook chat analyzer.",
-      //   copy: [
-      //     "See millions of messages at a glance, without data leaving your computer."
-      //   ],
+      {
+        name: "Launchwise",
+        medium: "Dart, Python, SQL",
+        summary: "The Thinkwise Launch, deploy and usage statistics client for ERP Thinkwise",}
+        // ,
+        // copy: [
+          // "See millions of messages at a glance, without data leaving your computer."
+        // ],
       //   links: {
       //     color: "#363636",
       //     primary: {
